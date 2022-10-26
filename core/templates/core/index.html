@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+
+{% block body %}
+
+<h1> Resultado de 7 * 8: {{ multiplicacao }} </h1>
+
+<br>
+<br>
+
+
+<br>
+<br>
+
+{% for v in veiculos %}
+
+<p>{{ v.nome }} - {{ v.cor }}</p>
+
+{% endfor %}
+
+
+<br>
+<br>
+<br>
+<br>
+
+<p>{ % % } -> tag de processamento </p>
+<p>{ { } } -> variavel da view</p>
+<p>{ # # } -> comentários </p>
+
+
+{% endblock %}
+
+
+

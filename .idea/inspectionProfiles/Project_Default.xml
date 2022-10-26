@@ -1,0 +1,301 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AngularAmbiguousComponentTag" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularCliAddDependency" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AngularInaccessibleComponentMemberInAotMode" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AngularIncorrectTemplateDefinition" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularInsecureBindingToEvent" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidAnimationTriggerAssignment" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidEntryComponent" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidExpressionResultType" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidI18nAttribute" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidImportedOrDeclaredSymbol" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidSelector" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidTemplateReferenceVariable" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularMissingEventHandler" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularMissingOrInvalidDeclarationInModule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularMultipleStructuralDirectives" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularNonEmptyNgContent" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularRecursiveModuleImportExport" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularUndefinedBinding" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularUndefinedModuleExport" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularUndefinedTag" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AnonymousFunctionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AssignmentResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AssignmentToForLoopParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AssignmentToFunctionParameterJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="BlockStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="BreakStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="BreakStatementWithLabelJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ChainedEqualityJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ChainedFunctionCallJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConditionalExpressionWithIdenticalBranchesJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConfusingFloatingPointLiteralJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConfusingPlusesOrMinusesJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConstantOnLHSOfComparisonJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConstantOnRHSOfComparisonJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ContinueStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ContinueStatementWithLabelJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="align" />
+            <item index="1" class="java.lang.String" itemvalue="transition" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="CyclomaticComplexityJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="10" />
+    </inspection_tool>
+    <inspection_tool class="DebuggerStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DefaultNotLastCaseInSwitchJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DivideByZeroJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DocumentWriteJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DuplicateConditionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="297" name="Style Sheets" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="DynamicallyGeneratedCodeJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ES6TopLevelAwaitExpression" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EmptyCatchBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="EmptyFinallyBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="EmptyTryBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="FlowJSCoverage" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="ForLoopReplaceableByWhileJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_ignoreLoopsWithoutConditions" value="false" />
+    </inspection_tool>
+    <inspection_tool class="ForLoopThatDoesntUseLoopVariableJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="FunctionNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_regex" value="[a-z][A-Za-z]*" />
+      <option name="m_minLength" value="4" />
+      <option name="m_maxLength" value="32" />
+    </inspection_tool>
+    <inspection_tool class="FunctionWithInconsistentReturnsJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="FunctionWithMultipleLoopsJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="FunctionWithMultipleReturnPointsJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="form" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="IfStatementWithIdenticalBranchesJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="IfStatementWithTooManyBranchesJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="3" />
+    </inspection_tool>
+    <inspection_tool class="IncrementDecrementResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="InnerHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSConstructorReturnsPrimitive" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSDeclarationsAtScopeStart" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSEqualityComparisonWithCoercion.TS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSNonStrictModeUsed" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSUnfilteredForInLoop" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="LabeledStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_regex" value="[a-z][A-Za-z]*" />
+      <option name="m_minLength" value="1" />
+      <option name="m_maxLength" value="32" />
+    </inspection_tool>
+    <inspection_tool class="MagicNumberJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NegatedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NegatedIfStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NestedAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NestedFunctionCallJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NestedFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_includeAnonymousFunctions" value="false" />
+    </inspection_tool>
+    <inspection_tool class="NestedSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NestingDepthJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="5" />
+    </inspection_tool>
+    <inspection_tool class="NonBlockStatementBodyJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ObjectAllocationIgnoredJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="OverlyComplexArithmeticExpressionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="6" />
+    </inspection_tool>
+    <inspection_tool class="OverlyComplexBooleanExpressionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="3" />
+    </inspection_tool>
+    <inspection_tool class="ParameterNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_regex" value="[a-z][A-Za-z]*" />
+      <option name="m_minLength" value="1" />
+      <option name="m_maxLength" value="32" />
+    </inspection_tool>
+    <inspection_tool class="ParametersPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="5" />
+    </inspection_tool>
+    <inspection_tool class="PlatformDetectionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PointlessBitwiseExpressionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_ignoreExpressionsContainingConstants" value="false" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="110">
+            <item index="0" class="java.lang.String" itemvalue="django-admin-bootstrapped" />
+            <item index="1" class="java.lang.String" itemvalue="django-bootstrap3" />
+            <item index="2" class="java.lang.String" itemvalue="django-ckeditor" />
+            <item index="3" class="java.lang.String" itemvalue="django_localflavor_br" />
+            <item index="4" class="java.lang.String" itemvalue="django-fluent-dashboard" />
+            <item index="5" class="java.lang.String" itemvalue="django-registration-redux" />
+            <item index="6" class="java.lang.String" itemvalue="django-contrib-comments" />
+            <item index="7" class="java.lang.String" itemvalue="django-admin-tools" />
+            <item index="8" class="java.lang.String" itemvalue="raven" />
+            <item index="9" class="java.lang.String" itemvalue="django-htmlmin" />
+            <item index="10" class="java.lang.String" itemvalue="MySQL-python" />
+            <item index="11" class="java.lang.String" itemvalue="python-memcached" />
+            <item index="12" class="java.lang.String" itemvalue="easy-thumbnails" />
+            <item index="13" class="java.lang.String" itemvalue="django_compressor" />
+            <item index="14" class="java.lang.String" itemvalue="django-hosts" />
+            <item index="15" class="java.lang.String" itemvalue="django-mptt" />
+            <item index="16" class="java.lang.String" itemvalue="django" />
+            <item index="17" class="java.lang.String" itemvalue="facebook-sdk" />
+            <item index="18" class="java.lang.String" itemvalue="django-smart-selects" />
+            <item index="19" class="java.lang.String" itemvalue="django-autoslug" />
+            <item index="20" class="java.lang.String" itemvalue="social-auth-app-django" />
+            <item index="21" class="java.lang.String" itemvalue="Unidecode" />
+            <item index="22" class="java.lang.String" itemvalue="fabric" />
+            <item index="23" class="java.lang.String" itemvalue="django-tagging" />
+            <item index="24" class="java.lang.String" itemvalue="pytz" />
+            <item index="25" class="java.lang.String" itemvalue="Pillow" />
+            <item index="26" class="java.lang.String" itemvalue="django-oembed" />
+            <item index="27" class="java.lang.String" itemvalue="wincertstore" />
+            <item index="28" class="java.lang.String" itemvalue="six" />
+            <item index="29" class="java.lang.String" itemvalue="asn1crypto" />
+            <item index="30" class="java.lang.String" itemvalue="cffi" />
+            <item index="31" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="32" class="java.lang.String" itemvalue="asgiref" />
+            <item index="33" class="java.lang.String" itemvalue="cryptography" />
+            <item index="34" class="java.lang.String" itemvalue="defusedxml" />
+            <item index="35" class="java.lang.String" itemvalue="pycparser" />
+            <item index="36" class="java.lang.String" itemvalue="requests" />
+            <item index="37" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="38" class="java.lang.String" itemvalue="eight" />
+            <item index="39" class="java.lang.String" itemvalue="chardet" />
+            <item index="40" class="java.lang.String" itemvalue="future" />
+            <item index="41" class="java.lang.String" itemvalue="urllib3" />
+            <item index="42" class="java.lang.String" itemvalue="idna" />
+            <item index="43" class="java.lang.String" itemvalue="django-widget-tweaks" />
+            <item index="44" class="java.lang.String" itemvalue="django-paypal" />
+            <item index="45" class="java.lang.String" itemvalue="pagseguro" />
+            <item index="46" class="java.lang.String" itemvalue="dj-database-url" />
+            <item index="47" class="java.lang.String" itemvalue="Django" />
+            <item index="48" class="java.lang.String" itemvalue="boto" />
+            <item index="49" class="java.lang.String" itemvalue="model-mommy" />
+            <item index="50" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="51" class="java.lang.String" itemvalue="django-storages" />
+            <item index="52" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="53" class="java.lang.String" itemvalue="django-recaptcha" />
+            <item index="54" class="java.lang.String" itemvalue="django-localflavor" />
+            <item index="55" class="java.lang.String" itemvalue="django-registration" />
+            <item index="56" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="57" class="java.lang.String" itemvalue="wrapt" />
+            <item index="58" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="59" class="java.lang.String" itemvalue="invoke" />
+            <item index="60" class="java.lang.String" itemvalue="django-compressor" />
+            <item index="61" class="java.lang.String" itemvalue="django-debug-toolbar" />
+            <item index="62" class="java.lang.String" itemvalue="django-cors-headers" />
+            <item index="63" class="java.lang.String" itemvalue="django-prometheus" />
+            <item index="64" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="65" class="java.lang.String" itemvalue="django-easy-thumbnails-watermark" />
+            <item index="66" class="java.lang.String" itemvalue="django-extra-fields" />
+            <item index="67" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="68" class="java.lang.String" itemvalue="django-jet" />
+            <item index="69" class="java.lang.String" itemvalue="mysql-client" />
+            <item index="70" class="java.lang.String" itemvalue="student" />
+            <item index="71" class="java.lang.String" itemvalue="profiles" />
+            <item index="72" class="java.lang.String" itemvalue="django-3-jet" />
+            <item index="73" class="java.lang.String" itemvalue="django-pure-pagination" />
+            <item index="74" class="java.lang.String" itemvalue="appdirs" />
+            <item index="75" class="java.lang.String" itemvalue="django-logentry-admin" />
+            <item index="76" class="java.lang.String" itemvalue="Whoosh" />
+            <item index="77" class="java.lang.String" itemvalue="python-decouple" />
+            <item index="78" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="79" class="java.lang.String" itemvalue="django-appconf" />
+            <item index="80" class="java.lang.String" itemvalue="Fabric3" />
+            <item index="81" class="java.lang.String" itemvalue="django-haystack" />
+            <item index="82" class="java.lang.String" itemvalue="twine" />
+            <item index="83" class="java.lang.String" itemvalue="readme-renderer" />
+            <item index="84" class="java.lang.String" itemvalue="tqdm" />
+            <item index="85" class="java.lang.String" itemvalue="Pygments" />
+            <item index="86" class="java.lang.String" itemvalue="bleach" />
+            <item index="87" class="java.lang.String" itemvalue="pkginfo" />
+            <item index="88" class="java.lang.String" itemvalue="docutils" />
+            <item index="89" class="java.lang.String" itemvalue="packaging" />
+            <item index="90" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="91" class="java.lang.String" itemvalue="rfc3986" />
+            <item index="92" class="java.lang.String" itemvalue="webencodings" />
+            <item index="93" class="java.lang.String" itemvalue="requests-toolbelt" />
+            <item index="94" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="95" class="java.lang.String" itemvalue="django-stdimage" />
+            <item index="96" class="java.lang.String" itemvalue="dj-static" />
+            <item index="97" class="java.lang.String" itemvalue="django-bootstrap4" />
+            <item index="98" class="java.lang.String" itemvalue="mysql-connector-python" />
+            <item index="99" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="100" class="java.lang.String" itemvalue="social-auth-core" />
+            <item index="101" class="java.lang.String" itemvalue="pip" />
+            <item index="102" class="java.lang.String" itemvalue="rest_framework" />
+            <item index="103" class="java.lang.String" itemvalue="elasticsearch" />
+            <item index="104" class="java.lang.String" itemvalue="html5lib" />
+            <item index="105" class="java.lang.String" itemvalue="jet-sidebar" />
+            <item index="106" class="java.lang.String" itemvalue="django-4-jet" />
+            <item index="107" class="java.lang.String" itemvalue="django-js-asset" />
+            <item index="108" class="java.lang.String" itemvalue="django-simple-captcha" />
+            <item index="109" class="java.lang.String" itemvalue="djangorestframework" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="dict.iteritems" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="ReplaceAssignmentWithOperatorAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ReuseOfLocalVariableJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="StatementsPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="30" />
+    </inspection_tool>
+    <inspection_tool class="StringLiteralBreaksHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="TailRecursionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="TextLabelInSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ThreeNegationsPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnterminatedStatementJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoreSemicolonAtEndOfBlock" value="true" />
+    </inspection_tool>
+    <inspection_tool class="UnusedCatchParameterJS" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_ignoreCatchBlocksWithComments" value="false" />
+    </inspection_tool>
+    <inspection_tool class="VoidExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="XHTMLIncompatabilitiesJS" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
