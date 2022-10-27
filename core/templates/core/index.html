@@ -1,22 +1,38 @@
 {% extends 'base.html' %}
 
+{% block nomelista %}
+   Lista de veiculos
+{% endblock %}
+
 
 {% block body %}
 
-<h1> Resultado de 7 * 8: {{ multiplicacao }} </h1>
+<table class="table">
 
-<br>
-<br>
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nome do Veículo</th>
+      <th scope="col">Cor</th>
+      <th scope="col">Concessionária</th>
+    </tr>
+  </thead>
 
+  <tbody>
 
-<br>
-<br>
+    {% for v in veiculos %}
+        <tr>
+          <th scope="row">{{ forloop.counter }}</th>
+          <td>{{ v.nome }}</td>
+          <td>{{ v.cor }}</td>
+          <td>{{ v.concessionaria }}</td>
+        </tr>
+    {% endfor %}
 
-{% for v in veiculos %}
+  </tbody>
+</table>
 
-<p>{{ v.nome }} - {{ v.cor }}</p>
-
-{% endfor %}
+<a type="button" href="{% url 'concessionaria' %}" class="btn btn-primary">Ver concessionárias</a>
 
 
 <br>

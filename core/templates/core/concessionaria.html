@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% block nomelista %}
+   Lista de concessionárias
+{% endblock %}
+
+{% block body %}
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nome da Concessionaria</th>
+      <th scope="col">Descrição</th>
+      <th scope="col">Quantidade de veículos</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    {% for c in concessionarias %}
+        <tr>
+          <th scope="row">{{ forloop.counter }}</th>
+          <td>{{ c.nome }}</td>
+          <td>{{ c.descricao }}</td>
+          <td>{{ c.numero_de_carros }}</td>
+        </tr>
+    {% endfor %}
+
+  </tbody>
+</table>
+<a type="button" href="{% url 'index' %}" class="btn btn-primary">Ver veiculos</a>
+
+{% endblock %}
